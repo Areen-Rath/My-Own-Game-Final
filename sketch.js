@@ -405,7 +405,7 @@ function test(){
           });
         } else {
           var a3= createElement('h1');
-          a3.html("Wrong Answer. Correct Answer is: ab + ac");
+          a3.html("Wrong Answer. Correct Answer is: Sodium");
           a3.position(width/2 - 280, height/2 - 100);
           var con = createButton('Continue Educating');
           con.position(width/2 - 60, a3.y + 70);
